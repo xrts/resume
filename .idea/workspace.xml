@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="734185ae-71c2-4622-bffa-0237a777d84f" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -156,12 +154,20 @@
       <workItem from="1522200703622" duration="1317000" />
       <workItem from="1522208297771" duration="23359000" />
       <workItem from="1522241767042" duration="1070000" />
-      <workItem from="1522374014470" duration="106000" />
+      <workItem from="1522374014470" duration="439000" />
     </task>
+    <task id="LOCAL-00001" summary="更新了打开链接的方式">
+      <created>1522374143991</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1522374143991</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25852000" />
+    <option name="totallyTimeSpent" value="26185000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -190,6 +196,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="更新了打开链接的方式" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新了打开链接的方式" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
