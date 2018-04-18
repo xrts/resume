@@ -115,7 +115,7 @@ a {
 @media screen and (max-width: 1024px) {
   .container {
     width: 100%;
-    height: 100%
+    height: 100%;
     margin: 0;
     -moz-border-radius: 0;
     -webkit-border-radius: 0;
@@ -229,7 +229,7 @@ a {
 
 @media screen and (max-width: 1024px) {
   .content-right .contact{
-    /*margin: 50px auto;*/
+    margin: 50px auto;
     height: 50px;
     text-align: center;
   }
@@ -278,6 +278,7 @@ a {
 
 .project .pro-skill span {
   padding: 0 5px;
+  margin-top: 5px;
   display: inline-block;
   height: 30px;
   line-height: 30px;
