@@ -109,7 +109,7 @@ a {
   -moz-box-shadow: 0 0 15px #c0c0c0;
   -webkit-box-shadow: 0 0 15px #c0c0c0;
   box-shadow: 0 0 15px #c0c0c0;
-  background-color: #fff;
+  background-color: rgb(109,122,130);
   overflow: hidden;
 }
 @media screen and (max-width: 1024px) {
@@ -206,7 +206,7 @@ a {
 }
 
 .content-right .contact {
-  margin: 839px auto 0;
+  margin: 800px auto 0;
   padding-bottom: 60px;
   text-align: left;
 }
@@ -247,6 +247,7 @@ a {
 .content-left {
   padding:30px 30px 60px;
   color: #5e7882;
+  background: #fff;
 
 }
 .content-left section {
